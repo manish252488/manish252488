@@ -22,5 +22,6 @@ I work with <b>Vue.js, React.js, React Native, Node.js, PostgreSQL, and MongoDB<
 
 <h2>📫 Connect with me</h2>
 <ul>
-  <li><a href="[https://www.linkedin.com/in/manish-singh](https://www.linkedin.com/in/manish-singh-654755189/)" target="_blank">LinkedIn</a></li>
+  <li><a href="https://www.linkedin.com/in/manish-singh-654755189" target="_blank">LinkedIn</a></li>
+  <li><a href="mailTo:manish25.manish2488@gmail.com" target="_blank">Email: manish25.manish2488@gmail.com</li>
 </ul>
